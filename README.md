@@ -5,6 +5,9 @@ It's a basic Youtube viewbot built on electron, you can find the website [here](
 [![Github latest release](https://img.shields.io/github/tag/Audition-CSBlock/Youtube-Viewbot-Electron.svg?style=flat-square)](https://github.com/Audition-CSBlock/Youtube-Viewbot-Electron/releases/latest)
 [![Github license](https://img.shields.io/github/license/Audition-CSBlock/Youtube-Viewbot-Electron.svg?style=flat-square)](https://github.com/Audition-CSBlock/Youtube-Viewbot-Electron/blob/master/LICENSE)
 
+# 2020 Update
+This project will be archived soon because i do not think i receive any stars for this. It never worked and i was developing this concept while i was still learning javascript. Please use other projects instead or if you want, take inspiration out of it and make your own version.  
+
 # Installation with nodejs
 If you want to run the app without packaging it / downloading the packaged version, you have to install npm.  
 npm is included into Node.js which you can download [here](https://nodejs.org/en/download/)  
